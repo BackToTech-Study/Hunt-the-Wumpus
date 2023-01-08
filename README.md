@@ -1,5 +1,6 @@
 # Hunt-the-Wumpus
-Hunt the Wumpus implemented by ChatBot GPT
+- Hunt the Wumpus implemented by ChatBot GPT
+- Game presentation https://rosettacode.org/wiki/Hunt_the_Wumpus
 
 ## Version 0001
 - Works, but you can go to any room and there are no bats or pits or arrows ...
@@ -93,6 +94,9 @@ Error in body stream
 ```
 
 Would you crash too ? :D
+
+# Bonus
+The Chatbot allowed me to share and modify the code :D. See the disclaimer image :D
 
 
 
